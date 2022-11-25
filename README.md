@@ -39,6 +39,10 @@ Use: Optional
 For: Analytics
 ```
 
+Categories for "Use" should be "Necessary" or "Optional".
+
+The file should be located in the `.well-known` directory.
+
 ## Other projects
 
 Some other developers also thought about this Issue:
